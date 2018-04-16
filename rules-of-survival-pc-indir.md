@@ -11,7 +11,7 @@ Son Güncelleme: Nisan 2018<br />
 Virüs Taraması: <span style="color:green;">Temiz &#10004;</span><br />
 Platform: Windows 10, 8, 7, XP<br>    
 İndirilme Sayısı: 100 Milyon+<br />
-Boyut: 1029 MB<br />
+Boyut: 1 GB<br />
 <a rel="nofollow" href="https://g61.gdl.netease.com/ros_publish_97_publish_1.147074.149250.exe" target="_blank">İndir & Download</a>
 <br>
 </center>
