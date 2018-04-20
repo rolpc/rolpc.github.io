@@ -14,14 +14,14 @@ permalink: /rules-of-survival-pc-indir
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-Adı: Rules of Survival PC (Bilgisayar)<br />
-Versiyon: v1.14 Son Sürüm<br />
-Yapımcı: NetEase<br />
-Son Güncelleme: Nisan 2018<br />
-Virüs Taraması: <span style="color:green;">Temiz &#10004;</span><br />
+Adı: Rules of Survival PC (Bilgisayar)<br>
+Versiyon: v1.14 Son Sürüm<br>
+Yapımcı: NetEase<br>
+Son Güncelleme: Nisan 2018<br>
+Virüs Taraması: <span style="color:green;">Temiz &#10004;</span><br>
 Platform: Windows 10, 8, 7, XP<br>    
-İndirilme Sayısı: 100 Milyon+<br />
-Boyut: 1 GB<br />
+İndirilme Sayısı: 100 Milyon+<br>
+Boyut: 1 GB<br>
   <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Baglanti20090 -->
@@ -31,8 +31,8 @@ Boyut: 1 GB<br />
      data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script><br />
-<a rel="nofollow" href="https://g61.gdl.netease.com/ros_publish_97_publish_1.147074.149250.exe" target="_blank">İndir & Download</a><br />
+</script><br>
+<a rel="nofollow" href="https://g61.gdl.netease.com/ros_publish_97_publish_1.147074.149250.exe" target="_blank">İndir & Download</a><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
 <ins class="adsbygoogle"
@@ -42,14 +42,13 @@ Boyut: 1 GB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 </center>
 
 <h2>Rules of Survival PC Nasıl Giriş Yapılır?</h2>
-PC için Rules of Survival oyununu resmi sitemizden indirip, bilgisayarınıza kurduktan sonra, hesabınıza giriş yapmanız gerekmektedir. Eğer android cihazınızdayken bir hesap açmadıysanız ve oyunu ilk kez indiriyorsanız, o zaman Facebook veya Google hesabınızla oyuna giriş yapabilirsiniz. Oyuna giriş yapmak için bir yöntemi size anlatalım.
+PC için Rules of Survival oyununu resmi sitemizden indirip, bilgisayarınıza kurduktan sonra, hesabınıza giriş yapmanız gerekmektedir. Eğer android cihazınızdayken bir hesap açmadıysanız ve oyunu ilk kez indiriyorsanız, o zaman Facebook veya Google hesabınızla oyuna giriş yapabilirsiniz. Oyuna giriş yapmak için bir yöntemi size anlatalım.<br>
 
-<span style="color:blue">Yöntem 1: Google Hesabı Kullanarak ROS'a Giriş</span>
-Google Hesabınızı kullanarak oyuna giriş yapmak için aşağıdaki adımları izleyebilirsiniz.
+<span style="color:blue">Yöntem 1: Google Hesabı Kullanarak ROS'a Giriş</span><br>
+Google Hesabınızı kullanarak oyuna giriş yapmak için aşağıdaki adımları izleyebilirsiniz.<br>
 
 <span style="color:blue">Adım 1:</span> Her şeyden önce, Bilgisayarınıza oyunu indirip, kurmuş olmanız gerek.<br>
 <span style="color:blue">Adım 2:</span> Şimdi "Google ile giriş yapın" butonuna tıklayın.<br>
