@@ -22,7 +22,6 @@ Virüs Taraması: <span style="color:green;">Temiz &#10004;</span><br>
 Platform: Windows 10, 8, 7, XP<br>    
 İndirilme Sayısı: 100 Milyon+<br>
 Boyut: 1 GB<br>
-  <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Baglanti20090 -->
 <ins class="adsbygoogle"
@@ -31,7 +30,7 @@ Boyut: 1 GB<br>
      data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script><br>
+       </script><br>
 <a rel="nofollow" href="https://g61.gdl.netease.com/ros_publish_97_publish_1.147074.149250.exe" target="_blank">İndir & Download</a><br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
